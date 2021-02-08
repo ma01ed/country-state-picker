@@ -3661,7 +3661,7 @@ const states: any = {
     "Zaporiz'ka Oblast'",
     "Zhytomyrs'ka Oblast'",
   ],
-  ae: ['`Ajman', 'Abu Zaby', 'Al Fujayrah', 'Ash Shariqah', 'Dubai', "Ra's al Khaymah", 'Umm al Qaywayn'],
+  ae: ['Ajman', 'Abu Dhabi', 'Al Fujairah', 'Sharjah', 'Dubai', "Ras Al Khaimah", 'Umm al Quwwain'],
   us: [
     'Alabama',
     'Alaska',

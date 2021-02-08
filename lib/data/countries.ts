@@ -1077,6 +1077,8 @@ const countries: any = [
   {
     name: 'United Arab Emirates',
     code: 'ae',
+    currency: 'AED',
+    division: 'emirate',
     dial_code: '+971',
   },
   {
