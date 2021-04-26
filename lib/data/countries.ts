@@ -770,7 +770,7 @@ const countries: any = [
     dial_code: '+47',
   },
   {
-    name: 'NULL',
+    name: 'Guernsey',
     code: 'gg',
     dial_code: '+44',
   },
